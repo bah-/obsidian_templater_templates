@@ -1,0 +1,1 @@
+# obsidian_templater_templates
